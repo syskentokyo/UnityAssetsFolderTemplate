@@ -1,0 +1,2 @@
+# UnityAssetsFolderTemplate
+Unityフォルダ構成のテンプレ
