@@ -1,2 +1,7 @@
 # UnityAssetsFolderTemplate
 Unityフォルダ構成のテンプレ
+
+
+UnityのAssetsフォルダ下のテンプレート作成
+
+gitkeepで空フォルダもプッシュ対象にしています
